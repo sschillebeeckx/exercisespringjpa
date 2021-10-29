@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="h2dbexercise" uuid="211068ea-f764-4643-80b7-eb9831945c0b">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:file:C:/temp/h2dbexercise;DB_CLOSE_ON_EXIT=FALSE;AUTO_SERVER=TRUE</jdbc-url>
+    </data-source>
+  </component>
+</project>

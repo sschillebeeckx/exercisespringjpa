@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Exc1bc" />
+        <module name="Exc1a" />
+        <module name="Exb2" />
+        <module name="Exb1" />
+        <module name="exercise" />
+        <module name="Exc2" />
+        <module name="Exa1" />
+        <module name="Exd3" />
+        <module name="Exd2" />
+        <module name="Exd1" />
+        <module name="Exb3" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Exa1" target="11" />
+      <module name="Exb1" target="11" />
+      <module name="Exb2" target="11" />
+      <module name="Exb3" target="11" />
+      <module name="Exc1a" target="11" />
+      <module name="Exc1bc" target="11" />
+      <module name="Exc2" target="11" />
+      <module name="Exd1" target="11" />
+      <module name="Exd2" target="11" />
+      <module name="Exd3" target="11" />
+      <module name="exercise" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Exa1" options="-parameters" />
+      <module name="Exb1" options="-parameters" />
+      <module name="Exb2" options="-parameters" />
+      <module name="Exb3" options="-parameters" />
+      <module name="Exc1a" options="-parameters" />
+      <module name="Exc1bc" options="-parameters" />
+      <module name="Exc2" options="-parameters" />
+      <module name="Exd1" options="-parameters" />
+      <module name="Exd2" options="-parameters" />
+      <module name="Exd3" options="-parameters" />
+      <module name="exercise" options="-parameters" />
+    </option>
+  </component>
+</project>

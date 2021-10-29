@@ -1,0 +1,17 @@
+package be.abis.exercise.repository;
+
+import be.abis.exercise.model.Person;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.query.Param;
+
+import java.util.List;
+
+public interface PersonJpaRepository extends JpaRepository<Person,Integer> {
+
+    Person findByPersonId(int id);
+    Person findByEmailAddress(String email);
+    Person findByEmailAddressAndPassword(String email, String password);
+    @Query("select p from Person p where p.company.name like upper(concat('%', concat(:name, '%')))")
+    List<Person> getByCompanyName(@Param("name") String name);
+}

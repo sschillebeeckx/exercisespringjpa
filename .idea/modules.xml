@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exa1/Exa1.iml" filepath="$PROJECT_DIR$/Exa1/Exa1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exb1/Exb1.iml" filepath="$PROJECT_DIR$/Exb1/Exb1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exb2/Exb2.iml" filepath="$PROJECT_DIR$/Exb2/Exb2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exb3/Exb3.iml" filepath="$PROJECT_DIR$/Exb3/Exb3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exc1a/Exc1a.iml" filepath="$PROJECT_DIR$/Exc1a/Exc1a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exc1bc/Exc1bc.iml" filepath="$PROJECT_DIR$/Exc1bc/Exc1bc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exc2/Exc2.iml" filepath="$PROJECT_DIR$/Exc2/Exc2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exd1/Exd1.iml" filepath="$PROJECT_DIR$/Exd1/Exd1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exd2/Exd2.iml" filepath="$PROJECT_DIR$/Exd2/Exd2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exd3/Exd3.iml" filepath="$PROJECT_DIR$/Exd3/Exd3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise/exercise.iml" filepath="$PROJECT_DIR$/exercise/exercise.iml" />
+    </modules>
+  </component>
+</project>
